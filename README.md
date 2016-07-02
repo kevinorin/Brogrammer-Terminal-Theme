@@ -8,7 +8,7 @@ I love the easy-on-the-eyes style guide of the Brogrammer theme and use it regul
 
 ## Installation
 
-1. [Download and extract the .zip file](https://github.com/kevinorin/brogrammer-terminal-theme/archive/master.zip)
+1. [Download and extract the .zip file](https://github.com/kevinorin/Brogrammer---Terminal-Theme/archive/master.zip)
 2. Open Terminal App and navigate to `Terminal > Preferences`
 3. Click the Settings dropdown and click `Import`. Navigate to the `brogrammer-terminal-theme.terminal` file you downloaded and click Open.
 
